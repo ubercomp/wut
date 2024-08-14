@@ -1,1 +1,0 @@
-This is a project created to test node.js deployments
